@@ -1,3 +1,2 @@
 streamlit
-matplotlib.pyplot
-numpy.lib.scimath
+matplotlib
